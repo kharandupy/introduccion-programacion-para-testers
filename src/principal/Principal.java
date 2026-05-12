@@ -1,0 +1,12 @@
+package principal;
+
+public class Principal {
+    public static void main(String[] args) {
+        // Primer linea escrita de codigo
+        System.out.println("Hola mundo!");
+        System.out.println("Nuestro nuevo codigo");
+
+        System.out.print("Esto");
+        System.out.print(" es una prueba de impresion");
+    }
+}
