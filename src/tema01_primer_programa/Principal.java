@@ -29,5 +29,7 @@ public class Principal {
 
         System.out.println("El nombre es: " + nombre);
         System.out.println("La edad de " + nombre + " es de " + edad + " anos");
+
+
     }
 }

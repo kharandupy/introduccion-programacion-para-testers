@@ -10,11 +10,12 @@ public class DatosDePrueba {
 
         String usuario = "admin";
         String password = "1234";
+        String cadena = "hola mundo";
 
         System.out.println("usuario: " + usuario);
         System.out.println("Password: " + password);
         System.out.println("Ambiente: " + ambiente);
-        System.out.println("Tiempo de Respuesta: " + tiempoDeRespuesta + " segundos");
+        System.out.println("La cadena es: " + cadena);
 
         double resultadoInvalido = 0.0/0.0;
         System.out.println("Resultado invalido: " + resultadoInvalido);
