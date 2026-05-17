@@ -30,5 +30,14 @@ public class ExpresionFuncionAritmetica {
         System.out.println("El resto de la division entre 5 y 2 es: " + resto);
 
         System.out.println("Errores: " + 2 + 3);
+
+        int a = 15;
+
+        int b = -3;
+
+        ((Math.pow(2, 3)) * 2) - 12 * 2.0;
+
+
+
     }
 }
